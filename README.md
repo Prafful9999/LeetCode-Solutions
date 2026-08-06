@@ -142,6 +142,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [2574-left-and-right-sum-differences](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/2574-left-and-right-sum-differences) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/3689-maximum-total-subarray-value-i) |
 ## Two Pointers
 |  |
 | ------- |
