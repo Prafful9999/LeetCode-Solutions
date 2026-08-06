@@ -82,6 +82,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0090-subsets-ii](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0135-candy) |
 | [0136-single-number](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array) |
