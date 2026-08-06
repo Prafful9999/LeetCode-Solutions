@@ -6,6 +6,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0050-powx-n) |
 | [0282-expression-add-operators](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0282-expression-add-operators) |
