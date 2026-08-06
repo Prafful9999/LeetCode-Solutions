@@ -40,4 +40,8 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0844-backspace-string-compare) |
 | [2000-reverse-prefix-of-word](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/2000-reverse-prefix-of-word) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
