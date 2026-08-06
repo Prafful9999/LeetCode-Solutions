@@ -168,6 +168,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/3691-maximum-total-subarray-value-ii) |
+| [3731-find-missing-elements](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/3739-count-subarrays-with-majority-element-ii) |
 | [3838-weighted-word-mapping](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/3838-weighted-word-mapping) |
