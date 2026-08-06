@@ -11,11 +11,7 @@ class Solution:
                     mini_ind=i
                 if nums[i]==maxi:
                     maxi_ind=i
-            if n-abs(maxi_ind-mini_ind)>=k-1:
-                return k*(maxi-mini)
-            else:
-                return k*(maxi-mini)
-                    
+            return k*(maxi-mini)
                     
 
 
