@@ -132,6 +132,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Two Pointers
 |  |
 | ------- |
