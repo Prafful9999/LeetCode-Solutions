@@ -25,6 +25,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | ------- |
 | [0143-reorder-list](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0234-palindrome-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0237-delete-node-in-a-linked-list) |
 ## Array
 |  |
 | ------- |
