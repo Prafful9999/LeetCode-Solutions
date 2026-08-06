@@ -150,4 +150,8 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 |  |
 | ------- |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/2220-minimum-bit-flips-to-convert-number) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
