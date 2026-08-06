@@ -160,6 +160,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0595-big-countries](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1068-product-sales-analysis-i) |
+| [1070-product-sales-analysis-iii](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1070-product-sales-analysis-iii) |
 | [1075-project-employees-i](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1075-project-employees-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1148-article-views-i) |
