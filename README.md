@@ -7,6 +7,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0009-palindrome-number) |
+| [1903-largest-odd-number-in-string](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1903-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
