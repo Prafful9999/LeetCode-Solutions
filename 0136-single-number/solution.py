@@ -3,14 +3,10 @@ class Solution:
 
             
             n=len(nums)
-            hash={}
-            for i in range(n):
-                if nums[i] not in hash:
-                    hash[nums[i]]=1
-                else:
-                    hash[nums[i]]+=1
-            for k,v in hash.items():
-                if v==1:
-                    return k
+            c=nums[0]
 
-                    
+            for i in range(1,n):
+                c=c^nums[i]
+            return c
+                
+                
