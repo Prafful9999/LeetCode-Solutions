@@ -17,6 +17,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [1344-angle-between-hands-of-a-clock](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1344-angle-between-hands-of-a-clock) |
 | [1903-largest-odd-number-in-string](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1922-count-good-numbers) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/3345-smallest-divisible-digit-product-i) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i) |
