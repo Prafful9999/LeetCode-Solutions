@@ -24,6 +24,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0682-baseball-game) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Two Pointers
 |  |
 | ------- |
