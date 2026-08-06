@@ -103,6 +103,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0682-baseball-game](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0724-find-pivot-index) |
+| [0860-lemonade-change](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0875-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0992-subarrays-with-k-different-integers) |
