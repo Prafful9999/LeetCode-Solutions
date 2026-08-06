@@ -294,4 +294,5 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | ------- |
 | [0547-number-of-provinces](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0785-is-graph-bipartite) |
+| [3310-remove-methods-from-project](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
