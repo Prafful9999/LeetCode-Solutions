@@ -117,6 +117,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0005-longest-palindromic-substring) |
+| [0125-valid-palindrome](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0844-backspace-string-compare) |
