@@ -67,6 +67,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0151-reverse-words-in-a-string) |
 | [0844-backspace-string-compare](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0844-backspace-string-compare) |
 | [2000-reverse-prefix-of-word](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/2000-reverse-prefix-of-word) |
