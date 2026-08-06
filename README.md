@@ -94,6 +94,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0160-intersection-of-two-linked-lists](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1781-sum-of-beauty-of-all-substrings) |
 <!---LeetCode Topics End-->
