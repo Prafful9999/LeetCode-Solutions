@@ -165,4 +165,5 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [1661-average-time-of-process-per-machine](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1757-recyclable-and-low-fat-products) |
+| [1934-confirmation-rate](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1934-confirmation-rate) |
 <!---LeetCode Topics End-->
