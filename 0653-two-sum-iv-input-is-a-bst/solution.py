@@ -6,24 +6,19 @@
 #         self.right = right
 class Solution:
     def findTarget(self, root: Optional[TreeNode], k: int) -> bool:
-        lst=[]
-        def inorder(node):
-            if node.left:
-                inorder(node.left)
-            lst.append(node.val)
-            if node.right:
-                inorder(node.right)
-            return lst
-        arr=inorder(root)
-        print(arr)
+        from collections import deque
+        que=deque([root])
         hmap=set()
-        for i in arr:
-            if k-i in hmap:
+        while len(que)!=0:
+            node=que.popleft()
+            value=node.val
+            if k-value in hmap:
                 return True
-            else:
-                hmap.add(i)
+            hmap.add(value)
+            if node.left:
+                que.append(node.left)
+            if node.right:
+                que.append(node.right)
         return False
-
-
-            
         
+            
