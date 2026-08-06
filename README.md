@@ -86,6 +86,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0142-linked-list-cycle-ii) |
