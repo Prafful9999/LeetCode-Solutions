@@ -11,6 +11,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0020-valid-parentheses) |
+| [3174-clear-digits](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/3174-clear-digits) |
 ## Stack
 |  |
 | ------- |
