@@ -163,6 +163,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0584-find-customer-referee](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0596-classes-with-at-least-5-students) |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0610-triangle-judgement](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0620-not-boring-movies) |
