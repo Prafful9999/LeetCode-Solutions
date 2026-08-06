@@ -1,19 +1,18 @@
 class Solution:
     def processStr(self, s: str) -> str:
-        res=''
+        res=[]
         for i in s:
             if i!='#' and i!='*' and i!='%':
-                res+=i
-                curr=res
+                res.append(i)
             elif i=='*':
                 if len(res)!=0:
-                    res=res[:-1]
+                    res.pop()
             elif i=='#':
-                res+=res
+                res.extend(res)
             elif i=='%':
                 if len(res)!=0:
-                    res=res[::-1]
-        return res
+                    res.reverse()
+        return ''.join(res)
         
             
             
