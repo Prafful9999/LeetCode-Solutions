@@ -155,6 +155,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0180-consecutive-numbers) |
 | [0185-department-top-three-salaries](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0196-delete-duplicate-emails) |
