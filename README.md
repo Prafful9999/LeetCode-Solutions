@@ -83,6 +83,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0930-binary-subarrays-with-sum](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1389-create-target-array-in-the-given-order) |
