@@ -160,6 +160,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0620-not-boring-movies](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1148-article-views-i) |
+| [1251-average-selling-price](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions) |
