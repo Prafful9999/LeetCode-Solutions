@@ -72,6 +72,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0493-reverse-pairs](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0503-next-greater-element-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0682-baseball-game) |
