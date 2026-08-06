@@ -72,6 +72,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0724-find-pivot-index](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0724-find-pivot-index) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1389-create-target-array-in-the-given-order) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
