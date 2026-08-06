@@ -261,4 +261,8 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0222-count-complete-tree-nodes) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
