@@ -95,6 +95,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0118-pascals-triangle](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0130-surrounded-regions) |
 | [0135-candy](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0135-candy) |
 | [0136-single-number](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0152-maximum-product-subarray) |
