@@ -153,6 +153,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0197-rising-temperature) |
 | [0550-game-play-analysis-iv](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0577-employee-bonus) |
