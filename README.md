@@ -157,6 +157,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [2161-partition-array-according-to-given-pivot](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/2574-left-and-right-sum-differences) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i) |
