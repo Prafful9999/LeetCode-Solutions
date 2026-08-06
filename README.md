@@ -70,6 +70,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0560-subarray-sum-equals-k](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0682-baseball-game) |
+| [0704-binary-search](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0992-subarrays-with-k-different-integers) |
