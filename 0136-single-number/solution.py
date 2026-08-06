@@ -1,14 +1,16 @@
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
-        htable={}
-        for i in nums:
-            if i not in htable:
-                htable[i]=1
-            else:
-                htable[i]+=1
-        for i in htable:
-            if htable[i]==1:
-                return i
 
-        
-        
+            
+            n=len(nums)
+            hash={}
+            for i in range(n):
+                if nums[i] not in hash:
+                    hash[nums[i]]=1
+                else:
+                    hash[nums[i]]+=1
+            for k,v in hash.items():
+                if v==1:
+                    return k
+
+                    
