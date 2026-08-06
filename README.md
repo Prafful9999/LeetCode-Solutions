@@ -23,6 +23,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0019-remove-nth-node-from-end-of-list) |
 | [0143-reorder-list](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0234-palindrome-linked-list) |
