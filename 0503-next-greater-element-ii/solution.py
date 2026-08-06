@@ -1,11 +1,23 @@
 class Solution:
     def nextGreaterElements(self, nums: List[int]) -> List[int]:
-       n=len(nums)
-       result=[-1]*n
+        res=[]
+        i=0
+        j=0
+        n=len(nums)
+        while j<n:
+            if nums[i%n]>nums[j]:
+                res.append(nums[i%n])
+                j+=1
+                i=j+1
+            else:
+                i+=1
+                if i>=2*n:
+                    res.append(-1)
+                    j+=1
+                    i=j+1
+                    
+                
+        return res
+                
+            
 
-       for i in range(n):
-          for j in range(i+1,i+n):
-              if nums[j%n]>nums[i]:
-                  result[i]=nums[j%n]
-                  break
-       return result
