@@ -1,31 +1,27 @@
 class Solution:
     def dayOfTheWeek(self, day: int, month: int, year: int) -> str:
-        days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
-        
-        # Reference date: 1 Jan 1971 = Friday (index 5)
-        total_days = 0
-        
-        # count days from 1971 to year-1
-        for y in range(1971, year):
-            if (y % 400 == 0) or (y % 4 == 0 and y % 100 != 0):
-                total_days += 366
-            else:
-                total_days += 365
-        
-        # days in months
-        month_days = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
-        
-        # leap year check
-        if (year % 400 == 0) or (year % 4 == 0 and year % 100 != 0):
-            month_days[1] = 29
-        
-        # add days of previous months
-        for m in range(month - 1):
-            total_days += month_days[m]
-        
-        # add current day
-        total_days += day - 1
-        
-        return days[(total_days + 5) % 7]
+        mon = {1:31,2:28,3:31,4:30,5:31,6:30,7:31,8:31,9:30,10:31,11:30,12:31}
+        week = ["Friday","Saturday","Sunday","Monday","Tuesday","Wednesday","Thursday"]
 
-        
+        def count_leap(y):
+            return y//4 - y//100 + y//400
+
+        diff = year - 1971
+        leap = count_leap(year-1) - count_leap(1970)
+        edays = diff + leap
+        ind_edays = edays % 7
+
+        cydays = 0
+        for i in range(1, month):
+            if i == 2:
+                if (year % 4 == 0 and year % 100 != 0) or (year % 400 == 0):
+                    cydays += 29
+                else:
+                    cydays += 28
+            else:
+                cydays += mon[i]
+
+        cydays += day
+        ind_cydays = (cydays - 1) % 7
+
+        return week[(ind_edays + ind_cydays) % 7]
