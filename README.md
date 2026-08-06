@@ -185,6 +185,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [1251-average-selling-price](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1280-students-and-examinations) |
 | [1321-restaurant-growth](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1321-restaurant-growth) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1327-list-the-products-ordered-in-a-period) |
 | [1341-movie-rating](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1341-movie-rating) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1378-replace-employee-id-with-the-unique-identifier) |
 | [1484-group-sold-products-by-the-date](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1484-group-sold-products-by-the-date) |
