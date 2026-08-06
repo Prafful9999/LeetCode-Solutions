@@ -7,13 +7,16 @@
 class Solution:
     def buildTree(self, preorder: List[int], inorder: List[int]) -> Optional[TreeNode]:
         root_ind=0
+        dic={}
+        for i in range(len(inorder)):
+            dic[inorder[i]]=i
+
+        
         def solver(low,high):
             nonlocal root_ind
             if low>high:
                 return None
-            i=0
-            while inorder[i]!=preorder[root_ind]:
-                i+=1
+            i=dic[preorder[root_ind]]
             root_ind+=1
             root_val=inorder[i]
             root=TreeNode(root_val)
