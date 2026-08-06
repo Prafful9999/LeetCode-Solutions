@@ -130,6 +130,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1901-find-a-peak-element-ii](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1901-find-a-peak-element-ii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
