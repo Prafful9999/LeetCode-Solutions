@@ -141,4 +141,8 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0451-sort-characters-by-frequency](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1781-sum-of-beauty-of-all-substrings) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
