@@ -12,6 +12,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0020-valid-parentheses) |
 | [0796-rotate-string](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string) |
