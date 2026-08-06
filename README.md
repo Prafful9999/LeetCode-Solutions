@@ -41,6 +41,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | ------- |
 | [0001-two-sum](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0136-single-number) |
