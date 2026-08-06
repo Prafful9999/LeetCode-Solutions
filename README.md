@@ -92,6 +92,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0268-missing-number](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0496-next-greater-element-i) |
