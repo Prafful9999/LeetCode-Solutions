@@ -159,6 +159,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [2574-left-and-right-sum-differences](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/2574-left-and-right-sum-differences) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii) |
