@@ -44,6 +44,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0075-sort-colors](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0136-single-number) |
+| [0169-majority-element](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0283-move-zeroes) |
