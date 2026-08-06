@@ -1,15 +1,24 @@
 class Solution:
     def numberOfSubstrings(self, s: str) -> int:
-        l=0
-        ans=0
-        arr=[0]*3
-        n=len(s)
-        for r in range(n):
-            arr[ord(s[r])-ord('a')]+=1
-            while arr[0]>0 and arr[1]>0 and arr[2]>0:
-                ans+=n-r
-                arr[ord(s[l])-ord('a')]-=1
-                l+=1
-        return ans
-
         
+       n=len(s)
+       right=0
+       left=0
+       count=0
+       lst=[0]*3
+       while True:
+        
+        while lst[0]>0 and lst[1]>0 and lst[2]>0:
+            count+=n-right+1
+            lst[ord(s[left])-ord('a')]-=1
+            left+=1
+        if right>=n:
+            return count
+        else:
+            lst[ord(s[right])-ord('a')]+=1
+            right+=1
+       
+        
+        
+        
+
