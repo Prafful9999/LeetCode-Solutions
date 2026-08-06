@@ -7,4 +7,8 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0009-palindrome-number) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
