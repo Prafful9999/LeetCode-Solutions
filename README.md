@@ -128,6 +128,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0733-flood-fill](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0733-flood-fill) |
 | [0860-lemonade-change](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0877-stone-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0994-rotting-oranges) |
