@@ -10,10 +10,10 @@ class Solution:
         ans=0
         while n>=x:
             count=0
-            while n>=x*(2**(count+1)):
+            while n>=x<<(count+1):
                 count+=1
-            ans+=2**count
-            n=n-x*(2**count)
+            ans+=1<<count
+            n=n-(x<<count)
         if ans>=int_max and sign==1:
             return sign*(int_max-1)
         elif ans>=int_max and sign==-1:
