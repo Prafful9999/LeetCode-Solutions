@@ -149,6 +149,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [1840-maximum-building-height](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1840-maximum-building-height) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1901-find-a-peak-element-ii](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1901-find-a-peak-element-ii) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign) |
