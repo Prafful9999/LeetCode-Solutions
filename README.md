@@ -48,6 +48,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0018-4sum](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0053-maximum-subarray) |
