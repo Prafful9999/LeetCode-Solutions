@@ -10,6 +10,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0009-palindrome-number](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0050-powx-n) |
 | [0282-expression-add-operators](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0282-expression-add-operators) |
+| [0509-fibonacci-number](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0509-fibonacci-number) |
 | [1185-day-of-the-week](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1185-day-of-the-week) |
 | [1903-largest-odd-number-in-string](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1922-count-good-numbers) |
