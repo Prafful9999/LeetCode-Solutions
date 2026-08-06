@@ -213,4 +213,8 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [1934-confirmation-rate](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1934-confirmation-rate) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Tree
+|  |
+| ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0102-binary-tree-level-order-traversal) |
 <!---LeetCode Topics End-->
