@@ -55,6 +55,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0328-odd-even-linked-list](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list) |
 ## Array
 |  |
 | ------- |
