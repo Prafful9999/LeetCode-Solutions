@@ -6,18 +6,20 @@
 #         self.right = right
 class Solution:
     def isValidBST(self, root: Optional[TreeNode]) -> bool:
-        arr=[]
-        def inorder(node):
-            if node==None:
-                return 
-            if node.left:
-                inorder(node.left)
-            arr.append(node.val)
-            if node.right:
-                inorder(node.right)   
-        inorder(root)
-        for i in range(len(arr)):
-            if i-1>=0:
-              if arr[i-1]>=arr[i]:
+
+        def solver(node, l, h):
+            if node == None:
+                return True
+
+            if not (l < node.val < h):
                 return False
-        return True
+
+            if not solver(node.left, l, node.val):
+                return False
+
+            if not solver(node.right, node.val, h):
+                return False
+
+            return True
+
+        return solver(root, float('-inf'), float('inf'))
