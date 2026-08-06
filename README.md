@@ -271,6 +271,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0124-binary-tree-maximum-path-sum) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/3699-number-of-zigzag-arrays-i) |
 ## Binary Search
 |  |
 | ------- |
