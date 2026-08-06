@@ -84,6 +84,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0992-subarrays-with-k-different-integers](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1248-count-number-of-nice-subarrays) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1389-create-target-array-in-the-given-order) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop) |
