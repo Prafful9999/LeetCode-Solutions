@@ -30,7 +30,7 @@ class Solution:
                         return False
 
 
-        print(hmap)
+        
         return True
             
 
