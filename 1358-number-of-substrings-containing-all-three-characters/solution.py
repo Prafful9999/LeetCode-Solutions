@@ -2,16 +2,14 @@ class Solution:
     def numberOfSubstrings(self, s: str) -> int:
         l=0
         ans=0
-        htable={'a':0,'b':0,'c':0}
+        arr=[0]*3
         n=len(s)
         for r in range(n):
-            htable[s[r]]+=1   
-            while htable['a']>=1 and htable['b']>=1 and htable['c']>=1:
+            arr[ord(s[r])-ord('a')]+=1
+            while arr[0]>0 and arr[1]>0 and arr[2]>0:
                 ans+=n-r
-                htable[s[l]]-=1
+                arr[ord(s[l])-ord('a')]-=1
                 l+=1
-                
         return ans
-
 
         
