@@ -9,6 +9,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0009-palindrome-number](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0050-powx-n) |
 | [1903-largest-odd-number-in-string](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1922-count-good-numbers) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/3783-mirror-distance-of-an-integer) |
 ## String
 |  |
