@@ -14,6 +14,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0282-expression-add-operators](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0282-expression-add-operators) |
 | [0509-fibonacci-number](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0509-fibonacci-number) |
 | [1185-day-of-the-week](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1185-day-of-the-week) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1344-angle-between-hands-of-a-clock) |
 | [1903-largest-odd-number-in-string](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1922-count-good-numbers) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i) |
