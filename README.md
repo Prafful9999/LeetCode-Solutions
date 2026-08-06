@@ -72,6 +72,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0053-maximum-subarray](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0074-search-a-2d-matrix) |
