@@ -6,19 +6,30 @@
 #         self.right = right
 class Solution:
     def countNodes(self, root: Optional[TreeNode]) -> int:
-        if root is None:
-            return 0
-        from collections import deque
-        que=deque([root])
-        count=0
-        while que:
-            node=que.popleft()
-            count+=1
-            if node.left:
-                que.append(node.left)
-            if node.right:
-                que.append(node.right)
-        return count
-            
+        
+        def left_ht(n):
+            h=0
+            while n:
+                h+=1
+                n=n.left
+            return h
+        def right_ht(n):
+            h=0
+            while n:
+                h+=1
+                n=n.right
+            return h
 
+        def solve(node):
+            if root==None:
+              return 0
+            lh=left_ht(node)
+            rh=right_ht(node)
+            if lh==rh:
+                return 2**lh-1
+            return 1+solve(node.left)+solve(node.right)
+        ans=solve(root)
+        return ans        
+        
 
+        
