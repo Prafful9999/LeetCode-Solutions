@@ -24,4 +24,8 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0682-baseball-game) |
+## Two Pointers
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
