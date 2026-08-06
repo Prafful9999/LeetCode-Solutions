@@ -114,6 +114,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0435-non-overlapping-intervals](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0503-next-greater-element-ii) |
