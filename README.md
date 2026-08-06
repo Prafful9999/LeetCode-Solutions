@@ -237,6 +237,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0700-search-in-a-binary-search-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
