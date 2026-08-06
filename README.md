@@ -236,6 +236,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree) |
