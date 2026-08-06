@@ -225,6 +225,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0110-balanced-binary-tree](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0662-maximum-width-of-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
