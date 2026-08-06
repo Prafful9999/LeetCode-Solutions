@@ -3,19 +3,17 @@ class Solution:
         val=image[sr][sc]
         rows=len(image)
         cols=len(image[0])
-        def solver(r,c):
-            if r<0 or r>rows-1:
-                return
-            if c<0 or c>cols-1:
-                return
+        def dfs(r,c):
+            if r<0 or r>rows-1 or c<0 or c>cols-1:
+                return 
             if image[r][c]==color:
                 return
             if image[r][c]==val:
                 image[r][c]=color
-                solver(r,c-1)
-                solver(r,c+1)
-                solver(r+1,c)
-                solver(r-1,c)
-        solver(sr,sc)
+                dfs(r,c-1)
+                dfs(r,c+1)
+                dfs(r-1,c)
+                dfs(r+1,c)
+        dfs(sr,sc)
         return image
         
