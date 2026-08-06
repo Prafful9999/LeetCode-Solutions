@@ -3,45 +3,39 @@
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
+
 class Solution:
     def reorderList(self, head: Optional[ListNode]) -> None: 
-        slow=head
-        fast=head
+        if not head or not head.next:
+            return
+
+        # Step 1: Find middle
+        slow = head
+        fast = head
         while fast and fast.next:
-            slow=slow.next
-            fast=fast.next.next
-        
-        
-        prev=None
-        curr=slow
+            slow = slow.next
+            fast = fast.next.next
+
+        # Step 2: Reverse second half
+        second = slow.next
+        slow.next = None   # ⚠️ Cut the list to avoid cycle
+        prev = None
+        curr = second
         while curr:
-            next_temp=curr.next
-            curr.next=prev
-            prev=curr
-            curr=next_temp
-        
-        first=head
-        second=prev
+            next_temp = curr.next
+            curr.next = prev
+            prev = curr
+            curr = next_temp
 
-        while second and first:
-            temp1=first.next
-            temp2=second.next
+        # Step 3: Merge both halves
+        first = head
+        second = prev
+        while second:
+            temp1 = first.next
+            temp2 = second.next
 
-            first.next=second
-            if not temp1:
-                break
-            second.next=temp1
+            first.next = second
+            second.next = temp1
 
-            first=temp1
-            second=temp2
-
-        if first:
-            first.next=None
-
-
-
-
-
-
-        
-        
+            first = temp1
+            second = temp2
