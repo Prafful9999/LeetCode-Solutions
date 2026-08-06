@@ -154,5 +154,6 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
