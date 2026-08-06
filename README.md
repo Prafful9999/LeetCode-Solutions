@@ -29,6 +29,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0237-delete-node-in-a-linked-list](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list) |
 ## Array
 |  |
 | ------- |
