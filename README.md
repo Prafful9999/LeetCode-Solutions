@@ -16,4 +16,8 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
