@@ -201,5 +201,6 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [1789-primary-department-for-each-employee](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1789-primary-department-for-each-employee) |
 | [1907-count-salary-categories](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1934-confirmation-rate) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
