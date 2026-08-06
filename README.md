@@ -161,6 +161,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0584-find-customer-referee) |
+| [0585-investments-in-2016](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0585-investments-in-2016) |
 | [0595-big-countries](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0596-classes-with-at-least-5-students) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0602-friend-requests-ii-who-has-the-most-friends) |
