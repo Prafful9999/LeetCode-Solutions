@@ -153,6 +153,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 ## Database
 |  |
 | ------- |
+| [0577-employee-bonus](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1068-product-sales-analysis-i) |
