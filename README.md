@@ -20,4 +20,8 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0234-palindrome-linked-list) |
+## Array
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0682-baseball-game) |
 <!---LeetCode Topics End-->
