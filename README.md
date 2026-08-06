@@ -157,6 +157,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0577-employee-bonus](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0595-big-countries) |
+| [0620-not-boring-movies](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1148-article-views-i) |
 | [1280-students-and-examinations](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1280-students-and-examinations) |
