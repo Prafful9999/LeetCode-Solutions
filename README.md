@@ -65,6 +65,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0075-sort-colors](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0136-single-number) |
