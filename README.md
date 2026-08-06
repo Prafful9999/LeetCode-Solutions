@@ -69,6 +69,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0229-majority-element-ii](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0283-move-zeroes) |
+| [0410-split-array-largest-sum](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0496-next-greater-element-i) |
