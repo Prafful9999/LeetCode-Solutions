@@ -232,4 +232,8 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0124-binary-tree-maximum-path-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
