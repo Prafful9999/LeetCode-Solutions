@@ -23,6 +23,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0019-remove-nth-node-from-end-of-list) |
 | [0143-reorder-list](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0148-sort-list) |
