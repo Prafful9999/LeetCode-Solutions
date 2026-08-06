@@ -38,6 +38,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0503-next-greater-element-ii) |
