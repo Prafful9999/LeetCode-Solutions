@@ -16,6 +16,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [1185-day-of-the-week](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1185-day-of-the-week) |
 | [1903-largest-odd-number-in-string](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1922-count-good-numbers) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/3783-mirror-distance-of-an-integer) |
 ## String
 |  |
