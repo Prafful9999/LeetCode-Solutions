@@ -36,6 +36,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array) |
 | [0496-next-greater-element-i](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0682-baseball-game) |
