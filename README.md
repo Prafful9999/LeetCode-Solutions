@@ -96,6 +96,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated) |
+| [1901-find-a-peak-element-ii](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
