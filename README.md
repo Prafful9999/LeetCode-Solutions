@@ -222,4 +222,8 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
