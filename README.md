@@ -143,6 +143,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1594-maximum-non-negative-product-in-a-matrix) |
 | [1732-find-the-highest-altitude](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated) |
+| [1840-maximum-building-height](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1840-maximum-building-height) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1901-find-a-peak-element-ii](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1901-find-a-peak-element-ii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
