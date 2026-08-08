@@ -130,6 +130,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0704-binary-search](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0733-flood-fill) |
+| [0846-hand-of-straights](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0877-stone-game) |
