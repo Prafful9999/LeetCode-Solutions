@@ -124,6 +124,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0540-single-element-in-a-sorted-array](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0704-binary-search) |
