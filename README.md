@@ -285,6 +285,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0662-maximum-width-of-binary-tree](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0703-kth-largest-element-in-a-stream) |
 ## Dynamic Programming
 |  |
 | ------- |
