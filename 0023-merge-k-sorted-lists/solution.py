@@ -3,24 +3,27 @@ class Solution:
         import heapq
 
         heap = []
+        count = 0
 
-        # Saare values heap mein daalo
+        # Har linked list ka first node heap mein
         for head in lists:
-            curr = head
+            if head:
+                heapq.heappush(heap, (head.val, count, head))
+                count += 1
 
-            while curr:
-                heapq.heappush(heap, curr.val)
-                curr = curr.next
-
-        # Dummy linked list
         dummy = ListNode(0)
         curr = dummy
 
-        # Heap se values nikaal kar linked list banao
         while heap:
-            val = heapq.heappop(heap)
+            val, _, node = heapq.heappop(heap)
 
-            curr.next = ListNode(val)
+            # Node ko answer mein add karo
+            curr.next = node
             curr = curr.next
+
+            # Us node ka next node heap mein daalo
+            if node.next:
+                heapq.heappush(heap, (node.next.val, count, node.next))
+                count += 1
 
         return dummy.next
