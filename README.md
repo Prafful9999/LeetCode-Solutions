@@ -168,6 +168,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/2196-create-binary-tree-from-descriptions) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character) |
 | [2574-left-and-right-sum-differences](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/2574-left-and-right-sum-differences) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency) |
