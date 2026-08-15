@@ -217,6 +217,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [1189-maximum-number-of-balloons](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1781-sum-of-beauty-of-all-substrings) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
 |  |
 | ------- |
