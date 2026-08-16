@@ -10,6 +10,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0009-palindrome-number](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0282-expression-add-operators) |
 | [0509-fibonacci-number](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0509-fibonacci-number) |
