@@ -109,6 +109,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0162-find-peak-element](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0189-rotate-array) |
+| [0198-house-robber](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0198-house-robber) |
 | [0204-count-primes](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0216-combination-sum-iii) |
