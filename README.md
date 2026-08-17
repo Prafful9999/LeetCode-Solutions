@@ -166,6 +166,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [1901-find-a-peak-element-ii](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1901-find-a-peak-element-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2029-stone-game-ix](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/2029-stone-game-ix) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/2161-partition-array-according-to-given-pivot) |
