@@ -157,6 +157,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1539-kth-missing-positive-number) |
+| [1563-stone-game-v](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1594-maximum-non-negative-product-in-a-matrix) |
 | [1732-find-the-highest-altitude](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated) |
