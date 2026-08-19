@@ -90,6 +90,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0056-merge-intervals](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0075-sort-colors) |
