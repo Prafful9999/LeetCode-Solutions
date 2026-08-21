@@ -1,14 +1,32 @@
 class Solution:
     def minFallingPathSum(self, matrix: List[List[int]]) -> int:
         n = len(matrix)
+        prev=[]
+        for i in range(n):
+            prev.append(matrix[0][i])
+        for i in range(1,n):
+            curr=[-1]*n
+            for j in range(n):
+                up = prev[j]
+                up_left = float('inf')
+                up_right = float('inf')
+                if j-1>=0:
+                    up_left=prev[j-1]
+                if j+1<n:
+                    up_right=prev[j+1]
+                curr[j]=matrix[i][j]+min(up,up_left,up_right)
+                
+            prev=curr
+        return min(prev)
+
+
+'''
 
         dp = [[-1] * n for _ in range(n)]
 
-        # First row
         for j in range(n):
             dp[0][j] = matrix[0][j]
 
-        # Remaining rows
         for i in range(1, n):
             for j in range(n):
 
@@ -27,7 +45,7 @@ class Solution:
 
         return min(dp[n-1])
             
-'''
+
         def dp(r,c):
             if r==0:
                 return matrix[r][c]
