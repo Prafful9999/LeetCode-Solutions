@@ -184,6 +184,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/3471-find-the-largest-almost-missing-integer) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii) |
