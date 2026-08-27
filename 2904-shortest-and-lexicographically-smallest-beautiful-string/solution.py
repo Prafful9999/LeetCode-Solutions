@@ -1,31 +1,33 @@
 class Solution:
     def shortestBeautifulSubstring(self, s: str, k: int) -> str:
-        left = 0
-        ones = 0
-        ans = ""
+        i=0
+        j=0
+        n=len(s)
+        count=0
+        mini=float('inf')
+        mini_ind=-1
+        max_ind=-1
+        while j<n and i<n:
+            if s[j]=='1':
+                count+=1
+            while count==k:
+                clen=j-i+1
+                if clen<mini:
+                    mini_ind=i
+                    max_ind=j
+                    mini=clen
+                elif clen == mini:
+                    if s[i:j+1] < s[mini_ind:max_ind+1]:
+                        mini_ind = i
+                        max_ind = j
+                if s[i]=='1':
+                    count-=1
+                i+=1
+            j+=1
+        return s[mini_ind:max_ind+1]
+                
+                
 
-        for right in range(len(s)):
-            if s[right] == '1':
-                ones += 1
-
-            # k se zyada 1 ho gaye
-            while ones > k:
-                if s[left] == '1':
-                    ones -= 1
-                left += 1
-
-            # starting ke unnecessary 0 hatao
-            while ones == k and s[left] == '0':
-                left += 1
-
-            if ones == k:
-                curr = s[left:right + 1]
-
-                if ans == "":
-                    ans = curr
-                elif len(curr) < len(ans):
-                    ans = curr
-                elif len(curr) == len(ans) and curr < ans:
-                    ans = curr
-
-        return ans
+            
+            
+       
