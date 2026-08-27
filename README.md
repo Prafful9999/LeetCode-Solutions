@@ -40,6 +40,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1544-make-the-string-great) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/2696-minimum-string-length-after-removing-substrings) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3174-clear-digits](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/3174-clear-digits) |
 | [3612-process-string-with-special-operations-i](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/3614-process-string-with-special-operations-ii) |
