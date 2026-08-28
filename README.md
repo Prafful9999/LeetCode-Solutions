@@ -237,6 +237,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/1781-sum-of-beauty-of-all-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
