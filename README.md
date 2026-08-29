@@ -214,6 +214,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0844-backspace-string-compare](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/0844-backspace-string-compare) |
 | [2000-reverse-prefix-of-word](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/2000-reverse-prefix-of-word) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Hash Table
 |  |
 | ------- |
