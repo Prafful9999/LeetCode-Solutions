@@ -185,6 +185,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character) |
 | [2574-left-and-right-sum-differences](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/2574-left-and-right-sum-differences) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Prafful9999/LeetCode-Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset) |
